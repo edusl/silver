@@ -1,0 +1,2342 @@
+[
+	{
+		"titulo": "Nuevas vías de ingresos",
+		"ambito": "Ámbito Económico",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Banca"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				}
+			],
+			"intro": [
+				{
+					"texto": "1 de cada 4 personas mayores de 65 años viven solos. Dada la mayor disponibilidad de bienes físicos e inmuebles los seniors podrían encontrar un complemento salarial en el alquiler de aquellos bienes o recursos que o no usen o usen en una proporción baja del tiempo o bienes y servicios más adaptados a sus necesidades."
+				},
+				{
+					"texto": "Plataformas de uso colaborativo como AirBnB, Zipcar/Turo, Parkfy y otras podrían encontrar una buena acogida en este colectivo adaptando sus servicios a las necesidades específicas de los mismos."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Silvernest",
+					"url": "http://www.silvernest.com",
+					"texto": "Silvernet ofrece la posibilidad de buscar nuevos hogares compartidos o nuevos inquilinos para el colectivo Seniors. +120k usuarios. $5.6M financiación."
+				},
+				{
+					"titulo": "Gogograndparent",
+					"url": "https://gogograndparent.com/",
+					"texto": "Marketplace de servicios de transporte de personas, compras y comida preparada para Seniors."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Coste de adquisición de cliente elevado."
+				},
+				{
+					"icono": "digitalizacion",
+					"texto": "Reducida digitalización como barrera de entrada."
+				},
+				{
+					"icono": "coste",
+					"texto": "Potencial por elevada disponibilidad de recursos ociosos."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 1
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Formación y reciclaje",
+		"ambito": "Ámbito Económico",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Banca"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "RV / RA"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Los senior son más comprometidos y leales, no es real que tengan menos motivación No tienen incapacidad para asumir nuevos retos ni siquiera tecnológicos, supliendo con esfuerzo e interés el lastre que les acarrea su edad."
+				},
+				{
+					"texto": "Tienen capacidades dadas por la experiencia, como las habilidades verbales, el buen juicio o la inteligencia emocional, que podrían ser muy útiles para los jóvenes."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Silverskills",
+					"url": "https://www.silverskills.eu/",
+					"texto": "Es una plataforma que permite a las personas mayores ofrecer voluntariamente sus habilidades y tiempo para realizar trabajos en un conjunto de áreas. Las personas que buscan apoyo pueden consultar la plataforma para voluntarios mayores que satisfagan las necesidades y la plataforma intermedia."
+				},
+				{
+					"titulo": "Bisipoz",
+					"url": "https://www.bizipoz.org/es/formacion-envejecimiento-activo/",
+					"texto": "Programas de transición a la jubilación y desarrollo de relaciones intergeneracionales. Formación dirigida a personas mayores que cubre ámbitos como comunicación, nuevas tecnologías, diseño de actividades y economía."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "17,39% del total de los empleados tiene 55 años o más."
+				},
+				{
+					"icono": "personas",
+					"texto": "Proporción de personas que continúan su actividad tras 65 años es muy baja comparada con otros países europeos."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Empeabilidad senior",
+		"ambito": "Ámbito Económico",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Si bien el mercado Senior es uno de los sensibles a cambios en el mercado laboral, debido a la absorción limitada de tales puestos por parte de las empresas, el elevado conocimiento y experiencia acumulados aportan un valor excepcional que puede ser aprovechado por empresas con mayor flexibilidad, abriendo oportunidades a seniors como advisors o trabajadores especialistas a través de plataformas físicas o digitales Además, no es cierto que quiten el empleo a los jóvenes, pues si siguen trabajando, aumenta el consumo, la inversión y los puestos de trabajo. En muchas ocasiones, están dispuestos a ganar menos a cambio de tiempo, a lo que se suma que aportan más valor en menos tiempo. Finalmente, disponen de más contactos."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Senior Emprende",
+					"url": "https://www.emprendedores.es/ayuda-crear-empresa-negocio/a28935367/programa-ayudar-emprender-50-seniors-emprendedores/",
+					"texto": "Programa específico para ayudar a emprender a las personas de más de 50 años, un colectivo que mayoritariamente emprende por necesidad debido a la falta de oportunidades laborales."
+				},
+				{
+					"titulo": "Fundación Transforma España",
+					"url": "https://ftransformaespana.es/milo-portfolio/talento-senior/",
+					"texto": "Junto con el Círculo de Empresarios de Madrid ha puesto en marcha la iniciativa Talento Sénior, Retos y Oportunidades, que tiene por objetivo generar conversación entre expertos de relevancia en el entorno del talento sénior."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "15% de parados tiene más de 55 de años (lo que subirá hasta el 30% para 2025 según previsiones de la UE)."
+				},
+				{
+					"icono": "personas",
+					"texto": "La mitad de los parados en España tiene 45 o más años."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Transición a la jubilación",
+		"ambito": "Ámbito Económico",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Plataformas"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				}
+			],
+			"intro": [
+				{
+					"texto": "El fin de la vida laboral puede ser el comienzo de una etapa difícil.  El cambio de hábitos, prolongados durante más de 40 años en la mayoría de los casos, suele ser brusco y sobre todo depende de la situación del individuo cuando llega ese momento (entorno social, salud, solvencia económica etc). Las compañías culturalmente tienen la obligación moral de anticiparse a un problema cada vez más habitual."
+				},
+				{
+					"texto": "Crear plataformas donde incentivar la relación entre los empleados con más edad para generar y dar soporte a los distintos problemas derivados de la jubilación es un posicionamiento de marca excelente. Incluso la posibilidad de ser un hub no solo para empleados sino para personas en una etapa cercana a la jubilación de otras compañías."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "BBVA Future Planner + Mi jubilación",
+					"url": "https://www.bbva.es/personas/productos/planes-de-pensiones/future-planner-planificar-jubilacion.html",
+					"texto": "Asesoramiento financiero para la planificación de recursos en base al gap entre ingresos y gastos y el estilo de vida elegido por el cliente."
+				},
+				{
+					"titulo": "Jubique",
+					"url": "http://jubique.es/",
+					"texto": "Asociación de prejubilados y pensionistas de Sector Financiero. La organización defiende  específicamente y dignamente sus derechos. "
+				},
+				{
+					"titulo": "Bisipoz",
+					"url": "https://www.bizipoz.org/es/formacion-envejecimiento-activo/",
+					"texto": "Cooperativa que entre sus servicios destinados a seniors tiene una terapia especifica que trata la transición a la jubilación."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "Según INE 3.100.000 personas > 55 años están en esta transición."
+				},
+				{
+					"icono": "personas",
+					"texto": "En el norte de Europa 2 de cada 3 personas comienza a preparar su jubilación durante su etapa laboral."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 1
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Pago de residencias",
+		"ambito": "Ámbito Económico",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Banca"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				}
+			],
+			"intro": [
+				{
+					"texto": "El precio de las residencias cada vez es más alto sobretodo con el poder adquisitivo de muchas de las personas que tienen dependencia y que tienen una pensión muy corta. El reto se encuentra en mitigar ese gasto con nuevas fórmulas de cara a paliar uno de los grandes problemas del envejecimiento en España: La soledad."
+				},
+				{
+					"texto": "La nuda propiedad, la hipoteca inversa y ahora los productos de alquiler de la vivienda nacen para poder resolver este problema. La oportunidad desde el ámbito digital estaría en poder crear plataformas donde apalancar nuevas modelos de negocio para residencias que puedan flexibilizar los pagos de los clientes o generar nuevas vías de ingresos"
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Pensium",
+					"url": "http://www.silvernest.com",
+					"texto": "La persona mayor pone a disposición de Pensium su casa. El banco arrienda la propiedad y anticipa 6 meses de alquiler al propietario para que pueda pagar la residencia con anticipación."
+				},
+				{
+					"titulo": "Resirent",
+					"url": "https://gogograndparent.com/",
+					"texto": "Producto del Banco Sabadell en colaboración con Pensium que desarrolla el mismo servicio que ofrece Pensium de forma indepenciente"
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "1 de cada 4 mayores de 65 en España viven sólos."
+				},
+				{
+					"icono": "personas",
+					"texto": "En 2033 el habrá en España 4 millones de personas mayores de 80 años y 12 millones por encima de 65."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 1
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Productos financieros silverizados",
+		"ambito": "Ámbito Económico",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Banca"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Debido a los mayores niveles de ahorro y renta disponible el sector Senior se trata de uno de los más rentables y fieles, pero también interesado en su planificación de objetivos y gestión patrimonial a largo plazo."
+				},
+				{
+					"texto": "Es por esto que banca y empresas de servicios financieros están lanzando nuevos productos basados en la hipoteca inversa, nuda propiedad o la renta vitalicia, así como servicios paquetizados con foco en la gestión de ahorros, patrimonio e inversión y coberturas extendidas como teleasistencia, adelanto de cobro de pensiones, asistentes 24h, manitas tecnológico, ayuda en planificación de viajes entre otros."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Santander Senior",
+					"url": "",
+					"texto": "Servicios paquetizados compuestos por seguros específicos de salud, garantía por accidentes y tele-asistencia, herramientas de planificación financiera e inversión, optimización de recibos y ventajas en contratación de viajes y otros recursos (ej. renting auto)."
+				},
+				{
+					"titulo": "BBVA Future Planner + Mi jubilación.",
+					"url": "",
+					"texto": "Asesoramiento financiero para la planificación de recursos en base al gap entre ingresos y gastos y el estilo de vida elegido por el cliente."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "40% seniors españoles ingresos superiores a 3400€ / mes."
+				},
+				{
+					"icono": "personas",
+					"texto": "<5% seniors encuentran empleo a +50 años."
+				},
+				{
+					"icono": "coste",
+					"texto": "Tres de cada cinco +50 años desearían haber aprendido más sobre economía doméstica."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Mercado inmobiliario",
+		"ambito": "Ámbito Económico",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Banca"
+				}
+			],
+			"tecnologia": [],
+			"intro": [
+				{
+					"texto": "Tres de cada cuatro compraventas en España las realizan mayores de 70 años. Con esta realidad el mercado ha empezado a crear nuevos modelos de negocio."
+				},
+				{
+					"texto": "Las fórmulas que se brindan a los mayores son variadas: hipoteca inversa, venta de nuda propiedad y retención del usufructo,, cohousing, adaptación del entorno al mayor, care hotels para extranjeros,residencia a cambio de cesión de alquiler."
+				},
+				{
+					"texto": "La tecnología se ha convertido en el gran habilitador de estos nuevos modelos de negocios entorno a un mercado inmobiliario que cada vez va a tener más clientes senior."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Joyners",
+					"url": "https://www.joyners.com/es",
+					"texto": "Busca entre sus usuarios afinidad para compartir vivienda o gastos."
+				},
+				{
+					"titulo": "Andedammen",
+					"url": "https://livingcohousing.com/cohousing-por-el-mundo/",
+					"texto": "Cohousing donde hasta cuatro generaciones distintas trabajan juntas."
+				},
+				{
+					"titulo": "Pensium",
+					"url": "https://pensium.es/",
+					"texto": "Modelo para que los mayores dependientes accedan a una plaza residencial a cambio de la cesión en arrendamiento de su inmueble."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Tres de cada cuatro compraventas en este país las realizan mayores de 70 años."
+				},
+				{
+					"icono": "coste",
+					"texto": "El inmobiliario enfocado a la tercera edad con  unos ratios de crecimiento que superan el 34% en los dos últimos años."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Estilos de vida",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "IA / Big Data"
+				},
+				{
+					"item": "Robótica / IoT"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Acorde a la evolución en la edad se producen dos principales tendencias, una basadas en la salud y el ocio, para aquel colectivo que busca la prevención y el disfrute y en base a ello proliferan las herramientas de seguimiento de salud y planificación financiera para planificar el estilo de vida deseado, y otra fundamentada en el facilitamiento del día a día de aquellas personas mayores con limitaciones."
+				},
+				{
+					"texto": "Nacen nuevas plataformas que se adaptan o facilitan el dia a dia de las personas mayores o con ciertas dependencias."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Kevo",
+					"url": "https://player.vimeo.com/video/359255704",
+					"texto": "Su producto Angara consiste en una Interfaz de voz para empresas que quieran desarrollar productos enfocados en Salud, atención y turismo."
+				},
+				{
+					"titulo": "Social Diabetes",
+					"url": "https://www.socialdiabetes.com/es",
+					"texto": "App y plataforma médica para el seguimiento, y recomendaciones en personas diabéticas, así como predicción mediante el uso de IA y Big Data."
+				},
+				{
+					"titulo": "Medipense",
+					"url": "https://medipense.com/en/",
+					"texto": "Dispensador digital de medicamentos con recordatorios para el control en la dósis y suministro de los mismos."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Amplio margen de digitalización."
+				},
+				{
+					"icono": "coste",
+					"texto": "Oportunidad minoración riesgos en banca/seguros."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 1
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Antiedad",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "IA / Big Data"
+				},
+				{
+					"item": "Biotecnología"
+				},
+				{
+					"item": "Robótica / IoT"
+				}
+			],
+			"intro": [
+				{
+					"texto": "El objetivo es llegar a ser centenarios activos y saludables. De ahí, surgen numerosas iniciativas: Cosmética antiaging, terapias hormonales, terapia genética y manipulación del ADN, aprendizaje automático para la creación de planes de salud personalizados, anticipación a sucesos de salud mediante big data y búsqueda de patrones, células madre…"
+				},
+				{
+					"texto": "A través del reconocimiento de imágenes y vídeos junto con tecnologías como IA se ha podido diagnosticar casos de depresión. Este ejemplo es suficiente para comprobar la capacidad de la tecnología para posicionarse como el mejor remedio contra la edad."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Savana",
+					"url": "https://savanamed.com/es/compania/sobre-nosotros/",
+					"texto": "Inteligencia artificial para la personalización en los planes de salud."
+				},
+				{
+					"titulo": "Juvenescence",
+					"url": "https://juvenescence.ltd/",
+					"texto": "Fundada por el millonario Jim Mellon, en el libro del mismo nombre se plasma las tendencias más innovadoras y relativas a la prolongación de la vida."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "Mediante la tecnología y la modificación genética podremos superar los 140 años de esperanza de vida a medio plazo."
+				},
+				{
+					"icono": "coste",
+					"texto": "La industria antienvejecimiento invertirá 50.000 millones de dólares en investigación a nivel global."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 3
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Teleasistencia",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "IA / Big Data"
+				},
+				{
+					"item": "Biotecnología"
+				},
+				{
+					"item": "Robótica / IoT"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Teleasistencia es un servicio, dirigido a personas mayores que viven solas o a personas con discapacidad, que permite pedir ayuda en caso de urgencia, desde el propio domicilio."
+				},
+				{
+					"texto": "A día de hoy es ya un servicio maduro a pesar de eso es un mercado en continua innovación tanto por el lado de IoT (gadgets, sincronización con servicios de smart-home, asistentes de voz)  como por el lado de los datos y los sistemas de predicción. Por tanto a pesar de ser un mercado con competencia tiene un largo camino por desarrollar y eficienciar los procesos."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Neat Group",
+					"url": "https://www.neat-group.com/es/",
+					"texto": "Tienen un servicio de teleasistencia muy avanzado con un terminal llamado NOVO que se sincroniza con el resto de Gadgets de la marca y es capaz de monitorizar  tanto las constantes vitales como elementos de la casa como los sensores de control de humos, etc."
+				},
+				{
+					"titulo": "Cruz Roja",
+					"url": "https://www.cruzroja.es/principal/web/teleasistencia/teleasistencia-fuera-y-dentro-de-casa",
+					"texto": "Este servicio opera a través de una aplicación que instalan el teléfono móvil del cliente y que conecta tanto dentro como fuera de casa con profesionales las 24 horas,. La aplicación sólo consta de un botón de ayuda."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "800.000 usuarios de teleasistencia España 2015."
+				},
+				{
+					"icono": "personas",
+					"texto": "85,2% de los ciudadanos considera que la teleasistencia es de mucha utilidad "
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 1
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 1
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Salud física y mental",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "IA / Big Data"
+				},
+				{
+					"item": "Biotecnología"
+				},
+				{
+					"item": "RV / RA"
+				},
+				{
+					"item": "Robótica / IoT"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "El control en periodos de debilidad, dependencia o enfermedad y gestión de la soledad son varios de los principales mecanismos de prevención de la depresión , deterioro cognitivo y enfermedades mentales o físicas. Es por ello que la oferta de servicios adaptados a la prevención y supervisión de tales necesidades, así como la estimulación física y mental pueden aportar un enorme valor en la prevención, y en la mejora de la calidad de vida de las personas mayores."
+				},
+				{
+					"texto": "Varías tecnologías parecen muy adaptadas a estas problemáticas, entre las que destaca la Realidad Virtual a pesar de no estar aún en su .pico de madurez tecnológico."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Luminosity",
+					"url": "https://www.lumosity.com/es/",
+					"texto": "Lanzamiento de juegos adaptados a personas senior para la estimulación de áreas como atención, sistema motor, percepción visual, memoria o razonamiento."
+				},
+				{
+					"titulo": "Rendever",
+					"url": "https://rendever.com/",
+					"texto": "Plataforma de VR enfocada en la vivencia de experiencias para personas aisladas."
+				},
+				{
+					"titulo": "Aalborg University",
+					"url": "https://vbn.aau.dk/en/projects/vr-media-lab-virtual-reality-media-lab",
+					"texto": "Plataforma de VR integrada con máquinas de caminar, bicicletas estáticas y de otro tipo para la simulación de experiencias al aire libre."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "20 mil millones EUR  ingresos estimados de RV en 2020."
+				},
+				{
+					"icono": "coste",
+					"texto": "Usuarios RV reportaron menores niveles de depresión, ansiedad y estrés que quienes participaron en el tratamiento estándar."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Digitalización sanitaria",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "El coronavirus ha supuesto sacar a la luz las ineficiencias de un sistema sanitario poco digitalizado y con carencias sobre todo en lo que respecta al acceso sanitario para personas mayores."
+				},
+				{
+					"texto": "Servicios de emisiones y envíos de recetas digitales, e-commerce para farmacias, historiales clínicos digitalizados, etc."
+				},
+				{
+					"texto": "El sistema sanitario necesita empezar por pequeñas soluciones para ir evolucionando hacia un sistemas mucho más avanzado."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Sensafarma",
+					"url": "https://www.sensafarma.es/",
+					"texto": "e-commerce farmacéutico perteneciente a la cooperativa BIDAFARMA en el que hay 9000 farmacias asociadas."
+				},
+				{
+					"titulo": "Sistema nacional de salud de Suecia",
+					"url": "https://www.philips.com/a-w/about/news/archive/future-health-index/articles/20171030-access-electronic-health-records.html",
+					"texto": "Suecia ha creado un registro de salud electrónica donde cualquier sueco mayor de 16 años puede entrar y ver todo su historial de salud incluso su historial dental, unificado en un solo sitio."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Gasto global de los últimos 5 años en healthcare es el 10% del PIB mundial."
+				},
+				{
+					"icono": "digitalizacion",
+					"texto": "7% compañías farmacéuticas y de salud dijeron que se habían vuelto digitales, el 15% den otras industrias."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 1
+				},
+				{
+					"item": "factibilidad",
+					"valor": 1
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Herencia digital",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Telco"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "RV / RA"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Al igual que ocurre con las criptomonedas (donde su contenido económico no alberga dudas), la Ley viene a reconocer el valor patrimonial de la llamada HUELLA DIGITAL y, por tanto, la posibilidad de disponer mortis causa de determinados bienes/archivos, ya sean perfiles de redes sociales, cuentas de correo electrónico, blogs, o incluso datos guardados en la nube."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Icorbox",
+					"url": "https://icorbox.com/herencia/",
+					"texto": "Podrás compartir todos tus recuerdos almacenados con tus seres queridos. Elige a tu sucesor para que herede el acceso a tus archivos almacenados. Almacenamiento y protección de archivos. Borrado digital post mortem."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "27 millones de usuarios activos de redes sociales, con una presencia creciente de los seniors."
+				},
+				{
+					"icono": "leyes",
+					"texto": "Leyes recientes: Ley Orgánica de Protección de datos y derechos digitales de 5 de diciembre de 2018 y Ley 10/2017, de 27 de junio, catalana de voluntades digitales."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Servicios Post mortem",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Actualmente, el momento de dificultad, de incertidumbre y de desazón que produce la muerte requiere que la tecnología, la interoperabilidad y la usabilidad ayuden en instantes tan delicados. Además, hay que evitar que la muerte equivalga al olvido pudiendo gestionarse los recuerdos para que las memorias de los seres queridos se conserven adecuadamente."
+				},
+				{
+					"texto": "Además de la parte más emocional, servicios logísticos como los que atañen a decesos tienen un alto grado de digitalización y de margen."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Incenit",
+					"url": "https://www.incenit.com/",
+					"texto": "Facilidad, certidumbre, precio cerrado y menor contratación online o telefónica con precios cerrados, sin decisiones incómodas ni letra pequeña.Financiación en cómodas cuotas. Financiación al instante, sin necesidad de ir al banco ni aportar documentos de ningún tipo."
+				},
+				{
+					"titulo": "Eterni",
+					"url": "http://eterni.me/",
+					"texto": "El contratante aporta vídeos, audios, imágenes y escritos, a la par que se somete a una serie de exámenes con el objeto de que cualquier persona, una vez fallecido aquel, pueda dialogar con el yo inmortal del mismo."
+				},
+				{
+					"titulo": "Netcome",
+					"url": "https://nectome.com/",
+					"texto": "Preservación de las memorias y de la conciencia."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Sector un 0,13% del PIB, que se eleva al 0,34% al incluir la actividad de las compañías de seguros que comercializan el ramo de decesos."
+				},
+				{
+					"icono": "coste",
+					"texto": "Mercado incipiente, poca competencia."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 1
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Servicios de atención domiciliaria",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Son los servicios con mayor proyección a corto y medio por dos razones: los seniors en su mayoría quieren vivir en su casa y la tecnología facilita que tengan todo tipo de servicios a su disposición."
+				},
+				{
+					"texto": "Una de las tendencias dentro de sectores como retail, telco, seguros o energía está siendo la lucha por el hogar del cliente y dentro de esta tendencia aparecen una nueva categoría de productos: home services."
+				},
+				{
+					"texto": "Existe toda una amalgama de actividades que poder desarrollar en el hogar de un cliente. Si ese cliente pertenece al colectivo senior será susceptible de que ese abanico de actividades se amplíe a tareas más relacionadas con la salud y los cuidados o incluso las actividades domésticas."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Familia Fácil",
+					"url": "https://familiafacil.es",
+					"texto": "Silvernet ofrece la posibilidad de buscar nuevos hogares compartidos o nuevos inquilinos para el colectivo Seniors. +120k usuarios. $5.6M financiación."
+				},
+				{
+					"titulo": "Habitissimo",
+					"url": "https://www.habitissimo.es",
+					"texto": "Plataforma para la búsqueda de profesionales de reformas o pequeñas reparaciones. Es la referencia del mercado en España en 2019 tuvo 18 millones de € de beneficio."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "1.500.000 usuarios aproximados de SAD."
+				},
+				{
+					"icono": "coste",
+					"texto": "1.500 millones EUR ingresos los SAD en España."
+				},
+				{
+					"icono": "coste",
+					"texto": "27.000 millones EUR tamaño de mercado Home Services."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 3
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Soledad y estimulación mental",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "IA / Big Data"
+				},
+				{
+					"item": "Biotecnología"
+				},
+				{
+					"item": "RV / RA"
+				},
+				{
+					"item": "Robótica / IoT"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "La tecnología constituye un motor fundamental para frenar el deterioro cognitivo y físico de los mayores. Las soluciones son de lo más variado: servicios de streaming para recuerdos, realidad virtual,musicoterapia y aromaterapia para mejorar el bienestar de las personas con Alzheimer, neuro-gimnasios con consejos para mejorar la fonación, la respiración y la movilidad sobre todo en personas con Parkinson. Además, los robots de compañía son cada vez más avanzados como PARO O TiaGo."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Neurogimnasios en alexa",
+					"url": "https://www.geriatricarea.com/2020/02/21/la-aplicacion-de-salud-gratuita-para-pacientes-con-parkinson-neurogimnasio-estara-disponible-en-alexa/",
+					"texto": "Para pacientes con Parkinson"
+				},
+				{
+					"titulo": "Adopta un abuelo",
+					"url": "https://www.adoptaunabuelo.org",
+					"texto": "Pone encontacto jóvenes con gente mayor para hacer planes."
+				},
+				{
+					"titulo": "Nacodeal",
+					"url": "https://itcl.es/proyectos-srv/nacodeal/",
+					"texto": "Realidad aumentada para pérdidas de memoria."
+				},
+				{
+					"titulo": "Miraculous Life",
+					"url": "http://www.miraculous-life.eu/",
+					"texto": "Persona virtual que ayuda en la vida diaria del hogar de los ancianos. Da respuestas empáticas al usuario basándose en expresiones faciales, entonación de voz, etc."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "4,7 millones de personas viven solas en España."
+				},
+				{
+					"icono": "personas",
+					"texto": "Más de 1,2 millones de personas con Alzheimer en España."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 3
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Plataformas de prevención",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "IA / Big Data"
+				},
+				{
+					"item": "Biotecnología"
+				},
+				{
+					"item": "Robótica / IoT"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "1 de cada 4 personas mayores de 65 años viven solos. Dada la mayor disponibilidad de bienes físicos e inmuebles los seniors podrían encontrar un complemento salarial en el alquiler de aquellos bienes o recursos que o no usen o usen en una proporción baja del tiempo o bienes y servicios más adaptados a sus necesidades."
+				},
+				{
+					"texto": "Plataformas de uso colaborativo como AirBnB, Zipcar/Turo, Parkfy y otras podrían encontrar una buena acogida en este colectivo adaptando sus servicios a las necesidades específicas de los mismos."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Silvernest",
+					"url": "http://www.silvernest.com",
+					"texto": "Silvernet ofrece la posibilidad de buscar nuevos hogares compartidos o nuevos inquilinos para el colectivo Seniors. +120k usuarios. $5.6M financiación."
+				},
+				{
+					"titulo": "Gogograndparent",
+					"url": "https://gogograndparent.com/",
+					"texto": "Marketplace de servicios de transporte de personas, compras y comida preparada para Seniors."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Coste de adquisición de cliente elevado."
+				},
+				{
+					"icono": "digitalizacion",
+					"texto": "Reducida digitalización como barrera de entrada."
+				},
+				{
+					"icono": "personas",
+					"texto": "Potencial por elevada disponibilidad de recursos ociosos."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 3
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Servicios para cuidadores",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "1 de cada 4 personas mayores de 65 años viven solos. Dada la mayor disponibilidad de bienes físicos e inmuebles los seniors podrían encontrar un complemento salarial en el alquiler de aquellos bienes o recursos que o no usen o usen en una proporción baja del tiempo o bienes y servicios más adaptados a sus necesidades."
+				},
+				{
+					"texto": "Plataformas de uso colaborativo como AirBnB, Zipcar/Turo, Parkfy y otras podrían encontrar una buena acogida en este colectivo adaptando sus servicios a las necesidades específicas de los mismos."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Silvernest",
+					"url": "http://www.silvernest.com",
+					"texto": "Silvernet ofrece la posibilidad de buscar nuevos hogares compartidos o nuevos inquilinos para el colectivo Seniors. +120k usuarios. $5.6M financiación."
+				},
+				{
+					"titulo": "Gogograndparent",
+					"url": "https://gogograndparent.com/",
+					"texto": "Marketplace de servicios de transporte de personas, compras y comida preparada para Seniors."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Coste de adquisición de cliente elevado."
+				},
+				{
+					"icono": "digitalizacion",
+					"texto": "Reducida digitalización como barrera de entrada."
+				},
+				{
+					"icono": "personas",
+					"texto": "Potencial por elevada disponibilidad de recursos ociosos."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 1
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 1
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Búsqueda de cuidadores",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "IA / Big Data"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "1 de cada 4 personas mayores de 65 años viven solos. Dada la mayor disponibilidad de bienes físicos e inmuebles los seniors podrían encontrar un complemento salarial en el alquiler de aquellos bienes o recursos que o no usen o usen en una proporción baja del tiempo o bienes y servicios más adaptados a sus necesidades."
+				},
+				{
+					"texto": "Plataformas de uso colaborativo como AirBnB, Zipcar/Turo, Parkfy y otras podrían encontrar una buena acogida en este colectivo adaptando sus servicios a las necesidades específicas de los mismos."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Silvernest",
+					"url": "http://www.silvernest.com",
+					"texto": "Silvernet ofrece la posibilidad de buscar nuevos hogares compartidos o nuevos inquilinos para el colectivo Seniors. +120k usuarios. $5.6M financiación."
+				},
+				{
+					"titulo": "Gogograndparent",
+					"url": "https://gogograndparent.com/",
+					"texto": "Marketplace de servicios de transporte de personas, compras y comida preparada para Seniors."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Coste de adquisición de cliente elevado."
+				},
+				{
+					"icono": "digitalizacion",
+					"texto": "Reducida digitalización como barrera de entrada."
+				},
+				{
+					"icono": "personas",
+					"texto": "Potencial por elevada disponibilidad de recursos ociosos."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Residencias 2.0",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Robótica / IoT"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "1 de cada 4 personas mayores de 65 años viven solos. Dada la mayor disponibilidad de bienes físicos e inmuebles los seniors podrían encontrar un complemento salarial en el alquiler de aquellos bienes o recursos que o no usen o usen en una proporción baja del tiempo o bienes y servicios más adaptados a sus necesidades."
+				},
+				{
+					"texto": "Plataformas de uso colaborativo como AirBnB, Zipcar/Turo, Parkfy y otras podrían encontrar una buena acogida en este colectivo adaptando sus servicios a las necesidades específicas de los mismos."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Silvernest",
+					"url": "http://www.silvernest.com",
+					"texto": "Silvernet ofrece la posibilidad de buscar nuevos hogares compartidos o nuevos inquilinos para el colectivo Seniors. +120k usuarios. $5.6M financiación."
+				},
+				{
+					"titulo": "Gogograndparent",
+					"url": "https://gogograndparent.com/",
+					"texto": "Marketplace de servicios de transporte de personas, compras y comida preparada para Seniors."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Coste de adquisición de cliente elevado."
+				},
+				{
+					"icono": "digitalizacion",
+					"texto": "Reducida digitalización como barrera de entrada."
+				},
+				{
+					"icono": "personas",
+					"texto": "Potencial por elevada disponibilidad de recursos ociosos."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 1
+				},
+				{
+					"item": "factibilidad",
+					"valor": 1
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 1
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Smart Health",
+		"ambito": "Ámbito Sanitario",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "Biotecnología"
+				},
+				{
+					"item": "RV / RA"
+				},
+				{
+					"item": "Robótica / IoT"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "1 de cada 4 personas mayores de 65 años viven solos. Dada la mayor disponibilidad de bienes físicos e inmuebles los seniors podrían encontrar un complemento salarial en el alquiler de aquellos bienes o recursos que o no usen o usen en una proporción baja del tiempo o bienes y servicios más adaptados a sus necesidades."
+				},
+				{
+					"texto": "Plataformas de uso colaborativo como AirBnB, Zipcar/Turo, Parkfy y otras podrían encontrar una buena acogida en este colectivo adaptando sus servicios a las necesidades específicas de los mismos."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Silvernest",
+					"url": "http://www.silvernest.com",
+					"texto": "Silvernet ofrece la posibilidad de buscar nuevos hogares compartidos o nuevos inquilinos para el colectivo Seniors. +120k usuarios. $5.6M financiación."
+				},
+				{
+					"titulo": "Gogograndparent",
+					"url": "https://gogograndparent.com/",
+					"texto": "Marketplace de servicios de transporte de personas, compras y comida preparada para Seniors."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Coste de adquisición de cliente elevado."
+				},
+				{
+					"icono": "digitalizacion",
+					"texto": "Reducida digitalización como barrera de entrada."
+				},
+				{
+					"icono": "personas",
+					"texto": "Potencial por elevada disponibilidad de recursos ociosos."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Control de fake news",
+		"ambito": "Ámbito Social",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Telco"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Las noticias falsas (en inglés fake news) son un tipo de bulo que consiste en un contenido pseudoperiodístico difundido a través de portales de noticias, prensa escrita, radio, televisión y redes sociales y cuyo objetivo es la desinformación."
+				},
+				{
+					"texto": "“Es un mal endémico de nuestra sociedad cuyas repercusiones son de especial trascendencia cuando hablamos de mayores."
+				},
+				{
+					"texto": "“El gran problema que suponen las fake news sanitarias es que se corre el peligro de que se agrave una enfermedad o que se provoque la muerte de una persona”, afirma Carles Pont, autor del libro Comunicar las emergencias. Actores, protocolos y nuevas tecnologías, de Editorial UOC."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "AEMPS",
+					"url": "https://www.aemps.gob.es/",
+					"texto": "(Agencia Española de Medicamentos y Productos Sanitarios) Permite al usuario buscar información sobre cualquier medicamento de la oficina de farmacia y comprobar si hay algún bulo sobre él o alguna alerta sanitaria que afecte a su lote."
+				},
+				{
+					"titulo": "Right of Reply",
+					"url": "https://rightofreply.news/",
+					"texto": "Startup que ha creado una plataforma de reputación en línea basada en blockchain."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "Las fake news tienen un 70% más de probabilidades de ser replicadas."
+				},
+				{
+					"icono": "personas",
+					"texto": "Según un estudio sobre noticias sanitarias en redes sociales de Elsevier en 2018, el 40 % de estas informaciones contenían errores o eran directamente falsas y se compartieron 451.272 veces durante 5 años (del 2012 al 2017)."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Redes sociales para seniors",
+		"ambito": "Ámbito Social",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Muchas personas mayores han visto en las redes sociales una oportunidad para complementar el ocio y una manera sencilla de estar en contacto con los familiares o amigos. Además, las redes sociales ofrecen muchas posibilidades y beneficios para las personas de la tercera edad. Mitigar la soledad, contactar con familiares, potenciar la actividad mental, lograr conocer gente nueva con gustos afines, etc. son unos de los muchos beneficios que aportan."
+				},
+				{
+					"texto": "Por todas estas razones han aparecido tanto nuevas redes sociales para seniors como contenido “silverizado” dentro de las redes sociales más habituales. Es una buena oportunidad para las compañías que quieran posicionarse en el ámbito seniors buscar caladeros de clientes en redes sociales a través de contenido o mediante la creación de una nueva plataforma"
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Cooldys / Cincuentopía",
+					"url": "https://cooldys.com/",
+					"texto": "Incluye planes compartidos, asesoría legal y laboral,  pretende aglutinar a una generación que ya no es la de nuestros abuelos, sino una gran mayoría social con ganas de seguir estando activos."
+				},
+				{
+					"titulo": "Our Time (Meetic)",
+					"url": "https://www.ourtime.es/",
+					"texto": "Especializada en buscar pareja a personas mayores de 50 años. Esta red propone salidas culturales, paseos por la naturaleza, noches de música, talleres de cocina, viajes compartidos para personas que buscan pareja y amigos."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "39 millones de usuarios de Facebook, Twitter y Skype que superan los 65 años."
+				},
+				{
+					"icono": "personas",
+					"texto": "Adultos de entre 55 y 64 años son los que han impulsado el crecimiento de Twitter en los últimos años."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Ocio activo",
+		"ambito": "Ámbito Social",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Retail"
+				},
+				{
+					"item": "Health"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "RV / RA"
+				},
+				{
+					"item": "Robótica / IoT"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Hoy en día los wearables y aplicaciones móviles simplificadas pueden ayudar al seguimiento y la planificación de actividades físicas para las personas mayores. Bien facilitando aquellas cualidades que el usuario desee trabajar, u ofreciendo planes a medida o bien mediante la inteligencia de la propia aplicación o la incorporación de personal cualificado para la supervisión y elaboración de tales planes."
+				},
+				{
+					"texto": "Hay una buena oportunidad en el mercado para poder ofrecer contenido silverizado en lo relacionado con la actividad física."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Map my Walk",
+					"url": "https://www.mapmywalk.com/",
+					"texto": "App para registrar rutas y datos de salud asociados a la misma, y descubrir nuevas rutas para caminar en tu zona recomendadas por otros usuarios."
+				},
+				{
+					"titulo": "My fitness pal",
+					"url": "https://www.myfitnesspal.com/es/",
+					"texto": "Esta app permite el registro de actividades físicas, pero también la planificación de dietas, control de calorías y descubrimiento o compartición de nuevas recetas con otros usuarios."
+				},
+				{
+					"titulo": "Daily Yoga",
+					"url": "https://www.dailyyoga.com/",
+					"texto": "Aplicación de yoga simplificada para un público senior."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "La OMS recomienda  un mínimo de 160 min. semanales de actividad física aeróbica para  mayores de 65 años."
+				},
+				{
+					"icono": "personas",
+					"texto": "Según Universidad Oulu (Finlandia) la actividad física reduce un 50% la mortalidad en mayores de 65 años."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Ocio doméstico",
+		"ambito": "Ámbito Social",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "RV / RA"
+				},
+				{
+					"item": "Robótica / IoT"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "En la actualidad formatos de grabación y compartición de contenidos como Youtube o Facebook han encontrado un nuevo público, los seniors, quienes encuentran en las mismas oportunidades para el aprendizaje y consumo de información de calidad en actividades tales como la cocina, decoración, costura y otros ámbitos."
+				},
+				{
+					"texto": "Sobre esta premisa se ha producido una eclosión de nuevos formatos y plataformas de contenidos adaptados a cada uno de los intereses de los seniors."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Epicurious",
+					"url": "https://www.epicurious.com/",
+					"texto": "Aplicación para el seguimiento y compartición de recetas de cocina con modos de uso con vídeo o tipo manos libres para su fácil seguimiento."
+				},
+				{
+					"titulo": "Sciddy",
+					"url": "https://www.sciddy.com/",
+					"texto": "App para acceder a servicios y descuentos únicos para seniors."
+				},
+				{
+					"titulo": "Librivox",
+					"url": "https://librivox.org/",
+					"texto": "App gratuita para acceder a una amplia colección de libros narrados, para personas con problemas de visibilidad."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "En los últimos 6 años ha aumentado un 96 % el uso de las redes sociales por parte de las personas mayores."
+				},
+				{
+					"icono": "personas",
+					"texto": "65 años de las tabletas se disparó en el último año un 219% y un 11% en el uso de internet."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Aislamiento",
+		"ambito": "Ámbito Social",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Telco"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "RV / RA"
+				},
+				{
+					"item": "Robótica / IoT"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Debido a la elevada proporción de personas mayores en situación de soledad, nuevas tecnologías como la realidad virtual y las interfaces por voz pueden ofrecer a tales personas no sólamente nuevas modalidades de entretenimiento, sino también permitirles conectar con sus amigos y seres queridos de nuevas formas."
+				},
+				{
+					"texto": "Estas nuevas modalidades de la tradicional terapia de reminiscencia permiten asimismo que personas con alzheimer y otros tipos de demencia puedan conectar con recuerdos para ralentizar el ritmo de afectación por la enfermedad."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Facebook Horizon(Oculus)",
+					"url": "https://www.oculus.com/facebookhorizon/?locale=es_ES",
+					"texto": "Ecosistema basado en VR para juegos, creación de arte y llamadas e interacción con amigos y familiares."
+				},
+				{
+					"titulo": "Virama",
+					"url": "",
+					"texto": "Sistema de VR basado en las HTC Vive para la rememoración de experiencias pasadas, descubrimiento de nuevas experiencias inmersivas."
+				},
+				{
+					"titulo": "Adopta un abuelo",
+					"url": "https://www.adoptaunabuelo.org/",
+					"texto": "Pone encontacto jóvenes con gente mayor para hacer planes."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "4,7 millones de personas viven solas en España."
+				},
+				{
+					"icono": "personas",
+					"texto": "Más de 1,2 millones de personas con Alzheimer en España."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Silver content",
+		"ambito": "Ámbito Social",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Banca"
+				},
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "RV / RA"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "La TV como HUB y el contenido media adaptado al un público cada vez más mayoritario como el senior."
+				},
+				{
+					"texto": "‘Adaptación al canal más utilizado por los seniors para que el contenido llegue a los mismos. Una usabilidad con posibilidades de personalización como aumentar la medida de texto, volumen, desactivar funcionalidades, cambiar colores, etc. La televisión como palanca para el  uso de otros canales tecnológicos como móviles, tablets o asistentes de voz."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Eldy TV",
+					"url": "http://www.eldy.eu/en/software/eldy-tv/",
+					"texto": "Las personas pueden navegar por la web, enviar correos electrónicos, chatear con amigos y acceder fácilmente a servicios en línea a través de un televisor conectado a Internet con un decodificador."
+				},
+				{
+					"titulo": "Future Space",
+					"url": "https://www.futurespace.es/",
+					"texto": "La TV como hub;modelo de teleasistencia centrado en la televisión como soporte de servicios de videoconferencia, monitorización y pulsador de emergencia accesible, conectado a wearables y a sensórica."
+				},
+				{
+					"titulo": "Uppers Mediaset",
+					"url": "https://www.europapress.es/sociedad/noticia-mediaset-espana-lanza-uppers-nuevo-medio-online-contenidos-informacion-mayores-45-anos-20190625171506.html",
+					"texto": "Mediaset España ha anunciado este martes el lanzamiento de Uppers, un nuevo medio online con contenidos e información especializada para mayores de 45 años."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "Los mayores de 64 años le dedican más de seis horas diarias, según revela el análisis mensual del comportamiento de la audiencia de Barlovento Comunicación."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 3
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Productos silverizados",
+		"ambito": "Ámbito Social",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Banca"
+				},
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "RV / RA"
+				},
+				{
+					"item": "Chatbots / Asistentes"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Hacer los productos digitales adaptados para seniors. En ese sentido nos damos cuenta como por ejemplo aplicaciones destinadas a entrenamientos funcionales o actividades físicas están siempre dirigidas a un público muy joven."
+				},
+				{
+					"texto": "En la actualidad existe una gran oportunidad para que grandes marcas posiciones o refuercen tal posición en el mercado senior, ofreciendo soluciones digitales en ámbitos como cuidados y salud, ocio, alimentación, moda y sanitario."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "TUi - Club ELAN",
+					"url": "https://viajes.es.tui.com/es/Catalogos/Catalogo/1894",
+					"texto": "Plataforma para la planificación de viajes de personas mayores con intereses afines."
+				},
+				{
+					"titulo": "Siempre joven",
+					"url": "https://www.youtube.com/channel/UCKC699D8MFegW5js4z_qk7A",
+					"texto": "Lanzamiento de un canal de Youtube con Catalina Hoffmann para consejos y contenidos de entretenimiento enfocados a pre-seniors y seniors."
+				},
+				{
+					"titulo": "Simple Senior Phone",
+					"url": "https://seniorsphone.mobi/",
+					"texto": "App para simplificar el uso y cuantía de información que aparece en las redes sociales tradicionales, permitiendo la integración de varias para facilitar su uso a seniors."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Según un estudio los mayores de 65 años gastan el 70% de su renta para compras."
+				},
+				{
+					"icono": "coste",
+					"texto": "60% de los mayores de 65 usa internet y tiene una capacidad de compra mayor que el resto de segmentos poblacionales."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Observatorio postdemográfico",
+		"ambito": "Ámbito Social",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Banca"
+				},
+				{
+					"item": "Seguros"
+				},
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Telco"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "IA / Big Data"
+				}
+			],
+			"intro": [
+				{
+					"texto": "La segmentación por edad deja de ser eficiente en la medida que nuestros mayores son cada vez más digitales. Las redes sociales, las plataformas de contenido, los blogs, etc. hace que personas de todas las edades en diferentes países construyan sus propias identidades con más libertad que nunca sin importar si comparten edad, idioma o cultura; hoy podemos tener muchísima más similitud con un individuo que vive a cientos de kilómetros que con nuestro vecino."
+				},
+				{
+					"texto": "Los observatorios de escucha (social listening, social media intelligence) son capaces de hacer nuevas segmentaciones de mercado más afinadas entorno a variables nuevas y no vinculadas a la demografía tomando una ventaja competitiva en la toma de decisiones y en la dirección estratégica."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "VISA",
+					"url": "https://www.youtube.com/watch?v=QE25UPtdhWw",
+					"texto": "Lanzaron una nueva estrategia para mejorar su offering hacia PYMES. Escucharon varias redes de información en búsqueda de propietarios de PYMES. Construyeron un framework léxico  para identificarlos con frases como: “soy dueño de...” “Llevo un negocio” “dirijo …”. Después de identificarlos analizaron las conversaciones. VISA modificó la oferta hacia PYMES mejorando en un 50% la percepción en esos clientes."
+				},
+				{
+					"titulo": "Trendwatching",
+					"url": "https://trendwatching.com/trends/post-demographic-consumerism/",
+					"texto": "Informe sobre la importancia de la postdemografía en el consumo con datos extraídos de estudios que resultan sorprendentes."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "personas",
+					"texto": "La misma proporción de gente(50%) usa facebook entre los mayores de 65 y los jóvenes de entre 13 y 17 años."
+				},
+				{
+					"icono": "personas",
+					"texto": "40 millones de usuarios redes sociales > 65 años."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 3
+				},
+				{
+					"item": "factibilidad",
+					"valor": 3
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 3
+				}
+			]
+		}
+	},
+	{
+		"titulo": "Turismo senior online",
+		"ambito": "Ámbito Social",
+		"contenido": {
+			"sector": [
+				{
+					"item": "Media / Ocio"
+				},
+				{
+					"item": "Retail"
+				}
+			],
+			"tecnologia": [
+				{
+					"item": "Plataformas"
+				},
+				{
+					"item": "RV / RA"
+				}
+			],
+			"intro": [
+				{
+					"texto": "Los seniors están caracterizados por su mayor capacidad económica y tiempo disponible para el disfrute del ocio y viajes planificados. Debido al mayor tiempo y menores cargas viajan más veces al año y suelen adquirir productos paquetizados con hotel, vuelo y guía."
+				},
+				{
+					"texto": "En este mercado surgen oportunidades en torno a la oferta de servicios añadidos como coberturas médicas ampliadas o de accesibilidad, junto a mejores experiencias de usuario en el proceso de organización de viaje o interfaces conversacionales al viajar."
+				}
+			],
+			"vision": [
+				{
+					"texto": "Con nuestra experiencia en el diseño de nuevos productos digitales desde lanzamiento de marca a integración y mantenimiento y el uso de nuestros servicios avanzados de cloud podríamos conectar de forma eficiente a este tipo de colectivos para el uso compartido de sus recursos junto a las capacidades extendidas en Big Data y Machine Learning para la monitorización y análisis de nuevos patrones de uso y consumo."
+				}
+			],
+			"casos": [
+				{
+					"titulo": "Carehotel ",
+					"url": "https://www.idealista.com/news/inmobiliario/vivienda/2015/09/16/739178-los-care-hotel-o-como-jubilarte-en-un-lugar-que-combina-lo-mejor-de-una-residencia-y",
+					"texto": "Contratación específica de centros sociosanitarios que combinan lo mejor de un hotel, con lo mejor de una residencia en cuanto a disponibilidad de servicios de cuidado se refiere."
+				},
+				{
+					"titulo": "Turismosocial",
+					"url": "http://www.turismosocial.com/",
+					"texto": "Lanzado por Globalia y Ávoris, se trata de una agencia especializada en la organización de viajes para el colectivo senior."
+				},
+				{
+					"titulo": "Mundiplan",
+					"url": "https://www.mundiplan.es/",
+					"texto": "Agencia de viajes especializada en servicios y destinos para seniors."
+				},
+				{
+					"titulo": "Linked Age",
+					"url": "https://www.lavanguardia.com/viajes/20130426/54372856767/linkedage-red-intercambio-asilos-turismo-tercera-edad.html",
+					"texto": "Es una red que permite intercambiar asilos y turismo de tercera edad, teniendo en cuenta para la permuta que las personas deben tener unas necesidades similares de asistencia médica."
+				}
+			],
+			"resumen": [
+				{
+					"icono": "coste",
+					"texto": "Coste de adquisición de cliente elevado."
+				},
+				{
+					"icono": "digitalizacion",
+					"texto": "Reducida digitalización como barrera de entrada."
+				},
+				{
+					"icono": "personas",
+					"texto": "Potencial por elevada disponibilidad de recursos ociosos."
+				}
+			],
+			"puntos": [
+				{
+					"item": "viabilidad",
+					"valor": 2
+				},
+				{
+					"item": "factibilidad",
+					"valor": 2
+				},
+				{
+					"item": "deseabilidad",
+					"valor": 2
+				}
+			]
+		}
+	}
+]
